@@ -29,7 +29,6 @@ for i in range(nyear):
             daystr+=str(k)+"W"+str(week)+" "
         print(daystr)
 
-weeks=[36,33,34,33,35,35,34]
 outstr=""
 
 with open("friday.out",'w') as fw:
