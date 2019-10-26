@@ -1,0 +1,7 @@
+01:ride
+02:gift1
+03:friday
+04:beads
+05:milk2
+06:transform
+07:namenum
