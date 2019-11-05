@@ -6,3 +6,4 @@
 06:transform
 07:namenum
 08:palsquare
+09:dualpal
