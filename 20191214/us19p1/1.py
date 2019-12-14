@@ -1,5 +1,5 @@
 """
-ID: xknxkn
+ID: 
 LANG: PYTHON3
 TASK: gymnastics
 """
