@@ -26,7 +26,7 @@ def mergeMilktime(mktimes,milksch):
         mktimes.append(milksch)
     else:
         N=len(mktimes)
-        mktimes.sort()
+        #mktimes.sort()
         for i in range(N):
             mktime=mktimes[i]
             start=milksch[0]
