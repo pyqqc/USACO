@@ -97,3 +97,4 @@ with open("beads.out",'w') as fw:
     outstr+="\n"
     print(outstr)
     fw.write(outstr)
+

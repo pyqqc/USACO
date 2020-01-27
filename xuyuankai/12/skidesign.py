@@ -32,3 +32,4 @@ print(money)
 print(res)
 with open('skidesign.out','w') as sw:
     sw.write(str(res)+'\n')
+
