@@ -57,20 +57,7 @@ def distance(a,b):
     else:
         return N-dis
 
-print(distance(1,2))
-print(distance(2,1))
-print(distance(48,50))
-print(distance(50,48))
-print(distance(1,50))
-print(distance(2,50))
-print(distance(3,50))
-print(distance(49,1))
-print(distance(48,1))
-print(distance(47,1))
-
-
 goodcomb=[]
-print(combs[0:10])
 
 for comb in combs:
     jmc=0
